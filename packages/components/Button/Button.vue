@@ -4,5 +4,5 @@ defineOptions({
 })
 </script>
 <template>
-    <button>button</button>
+    <button>按钮</button>
 </template>
