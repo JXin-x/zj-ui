@@ -4,5 +4,5 @@ import "@zj-ui/theme/index.css"
 
 const installer = makeInstaller(components);
 
-export * from "@zj-ui/components"
+export * from "../components"
 export default installer
